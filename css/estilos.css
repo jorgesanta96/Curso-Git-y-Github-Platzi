@@ -11,3 +11,8 @@ body {
     font-family: "Verdana";
     background-color: gold;
 }
+
+.Cabecera {
+    font-weight: bold;
+    padding: 10px;
+}
