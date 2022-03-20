@@ -4,3 +4,10 @@ body {
     background-color : blue;
     color : orangered;
 }
+
+#Cabecera {
+    size : 20px;
+    color : purple;
+    font-family: "Verdana";
+    background-color: gold;
+}
